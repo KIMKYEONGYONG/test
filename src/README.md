@@ -2,6 +2,6 @@
 
 안녕하세요
 
-['Test.java'](./Test.java)
+[Test.java](./Test.java)
 
  
